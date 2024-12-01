@@ -1,1 +1,2 @@
 Conflicting content from conflict_branch
+Updated file to cause conflicts
