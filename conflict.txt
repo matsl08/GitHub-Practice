@@ -1,1 +1,1 @@
-Conflicting content from conflict_branch
+A file that will have conflicts
